@@ -71,7 +71,7 @@ export default function Home() {
           className="text-sm sm:text-base md:text-lg lg:text-xl mb-4 sm:mb-6 md:mb-8 lg:mb-12 max-w-2xl mx-auto leading-relaxed bg-gradient-to-r from-gray-100 via-gray-200 to-gray-300 bg-clip-text text-transparent"
           variants={itemVariants}
         >
-          Building scalable backend systems with Go, Kafka, and PostgreSQL.
+          Specializing in fintech and insurance systems, particularly decision platforms, with experience building scalable backend services, designing reliable APIs, and developing high-performance systems for complex business logic.
         </motion.p>
 
         {/* Personal touch */}
